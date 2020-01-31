@@ -9,7 +9,7 @@
 - Для маршрутизации использовать [vue-router](https://router.vuejs.org/ru/);
 - Для создания проекта использовать `vue-cli` c включенным `eslint`, конфиг `standart`;
 - Для `ajax` запросов использовать [axios](https://github.com/axios/axios);
-- Список городов на главной странице хранить в [vuex](https://vuex.vuejs.org/ru/);
+- Данные о городах хранить в [vuex](https://vuex.vuejs.org/ru/);
 - Использовать git. Код выложить на [github](https://github.com/). Ключи и др. конфиденциальные данные можно хранить в `.env` файле.
 ## Extra задание
 - Умный поиск по названиям городов. Можно использовать `api` [geonames](https://www.geonames.org/);
